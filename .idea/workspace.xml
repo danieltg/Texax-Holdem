@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1e1422f7-45cd-4517-a53b-331ff93aead7" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Engine/src/HumanPlayer.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Engine/src/AutoPlayer.java" afterPath="$PROJECT_DIR$/Engine/src/AutoPlayer.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Engine/src/Cards.java" afterPath="$PROJECT_DIR$/Engine/src/Cards.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Engine/src/Player.java" afterPath="$PROJECT_DIR$/Engine/src/Player.java" />
-    </list>
+    <list default="true" id="1e1422f7-45cd-4517-a53b-331ff93aead7" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -278,12 +273,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1510994383268</updated>
-      <workItem from="1510994384612" duration="4405000" />
+      <workItem from="1510994384612" duration="4491000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4405000" />
+    <option name="totallyTimeSpent" value="4491000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="7" />
