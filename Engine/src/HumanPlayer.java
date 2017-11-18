@@ -1,4 +1,6 @@
-public class HumanPlayer extends Player {
+package Players;
+
+public class HumanPlayer extends Players.Player {
     private int numOfBuys=0;
 
     @Override

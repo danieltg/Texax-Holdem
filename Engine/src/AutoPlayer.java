@@ -1,4 +1,6 @@
-public class AutoPlayer extends Player {
+package Players;
+
+public class AutoPlayer extends Players.Player {
 
     @Override
     public void play() {
