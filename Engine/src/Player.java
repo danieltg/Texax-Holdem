@@ -1,12 +1,19 @@
 public abstract class Player {
-    private char playerType;
-    private char state;
-    private boolean isActive;
-    private int cheeps;
+    enum PlayerTypeSign{H,C};
+    enum PlayerStateSign{D,S,B,NoState};
+    private  PlayerTypeSign playerType=PlayerTypeSign.C;
+    private PlayerStateSign PlayerState=PlayerStateSign.NoState;
+    private boolean isActive=true;
+    private int cheeps=0;
     private Cards [] playerCards=new Cards[2];
-    private int numOfBuys;
-    private int handsWon;
-    
+
+    private int handsWon=0;
+
+    public Player(){};
+
+    public void play() {
+
+    }
 
 
 }
