@@ -1,6 +1,5 @@
-package Players;
 
-public class AutoPlayer extends Players.Player {
+public class AutoPlayer extends Player {
 
     @Override
     public void play() {
